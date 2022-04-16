@@ -1,0 +1,9 @@
+https://towardsdatascience.com/music-in-python-2f054deb41f4
+
+https://holly.mirror.xyz/54ds2IiOnvthjGFkokFCoaI4EabytH9xjAYy1irHy94
+
+https://en.wikipedia.org/wiki/Piano_key_frequencies
+
+https://scikit-image.org/
+
+https://refactored.ai/microcourse/notebook?path=micro_courses%2Fdata_handling_micro_course%2Fdata_handling_in_python.ipynb
